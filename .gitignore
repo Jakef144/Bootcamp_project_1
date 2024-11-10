@@ -1,6 +1,6 @@
 # Custom ignore
 .DS_Store
-
+.api_key.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
