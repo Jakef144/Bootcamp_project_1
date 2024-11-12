@@ -39,7 +39,7 @@ metadata = requests.get("https://ourworldindata.org/grapher/death-rates-from-men
 Excel / Google Sheets
 =IMPORTDATA("https://ourworldindata.org/grapher/death-rates-from-mental-and-substance-disorders-by-age-who.csv?v=1&csvType=full&useColumnShortNames=true")
 # Bootcamp_project_1
->>>>> jake
+>>>>> jake/megan/shiki
 10/29 Searched for data sources created plan to find data regarding substance abuse and mental health facilities
 10/31 Finalized plan for subtance abuse, sent final plan to project proposals
 11/04 Began sorting and cleaning data. posted first complete graph "Substance abuse related deaths by country"
