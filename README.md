@@ -1,4 +1,4 @@
-<<<<<<< Jake
+
 =======
 # Bootcamp_project_1
 
