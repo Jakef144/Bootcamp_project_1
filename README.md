@@ -1,5 +1,5 @@
 # Bootcamp_project_1
->>>>> jake/megan/shiki
+jake/megan/shiki
 10/29 Searched for data sources created plan to find data regarding substance abuse and mental health facilities
 10/31 Finalized plan for subtance abuse, sent final plan to project proposals
 11/04 Began sorting and cleaning data. posted first complete graph "Substance abuse related deaths by country"
@@ -14,7 +14,7 @@ This project is meant to shed light on substance abuse and the impact it has on 
 in stemming substance abuse. 
 
 Sources are listed in collected CSV_files located in the folder.
-=======
+
 
 # Bootcamp_project_1
 Amy
@@ -28,15 +28,15 @@ Estimated annual number of deaths by age group from mental health and substance 
 Source and citation
 Data sources: 
 
-•	World Health Organization (2024)
+	World Health Organization (2024)
 
 Cite this work:
-Our articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:Saloni Dattani, Lucas Rodés-Guirao, Hannah Ritchie and Max Roser (2023) - “Mental Health” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/mental-health' [Online Resource]
+Our articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:Saloni Dattani, Lucas Rodes-Guirao, Hannah Ritchie and Max Roser (2023) - Mental Health Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/mental-health' [Online Resource]
 BibTeX citation:
 @article{owid-mental-health,
-    author = {Saloni Dattani and Lucas Rodés-Guirao and Hannah Ritchie and Max Roser},
+    author = {Saloni Dattani and Lucas Rodes-Guirao and Hannah Ritchie and Max Roser},
     title = {Mental Health},
     journal = {Our World in Data},
     year = {2023},
     note = {https://ourworldindata.org/mental-health}
-}– with major processing by Our World In Data
+} with major processing by Our World In Data
